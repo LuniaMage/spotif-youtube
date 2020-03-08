@@ -1,5 +1,10 @@
 # spotif-youtube
 
+## Project Description
+```
+this vue player is for use with the teller web app
+```
+
 ## Project setup
 ```
 npm install
